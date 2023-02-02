@@ -3,6 +3,7 @@
 ## Information
 
 Contact me at: douglas.loizzo@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/douglas-loizzo-jr-3aa946261/)
 
 [Portfolio](https://changedl.github.io./)
